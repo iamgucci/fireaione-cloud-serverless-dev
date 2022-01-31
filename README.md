@@ -17,6 +17,8 @@ This project scaffold includes:
 
 ![Eleventy screenshot](./eleventyone-template.jpg)
 
+![Apple SF sample icon](./Fire A Cloud - custom.flame.svg)
+
 
 ## Instructions
 
